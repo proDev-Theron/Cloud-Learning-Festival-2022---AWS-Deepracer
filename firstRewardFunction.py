@@ -1,9 +1,10 @@
 #Time trial - Jochem Turnpike
 
-# First Training - 2 Hours
+# First Training - 2.5 Hours
 # Based on: https://github.com/scottpletcher/deepracer/blob/master/iterations/v4-SelfMotivator.md
-# Successfully completed 3 laps without getting off-track @ 2:37.525
+# Successfully completed 3 laps without getting off-track @ 2:33.796
 # Speed: 0.6 - 1 m/s
+# Creation Time: Sep 27th 2022, 10:29 am
 
 def reward_function(params):
 
